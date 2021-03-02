@@ -1,2 +1,2 @@
 # Spam_Classifier_NB
-This is a code for spam classification and uses a naive bayes model with natural language processing.
+Spam classification uses a Naive Bayes model with natural language processing. 
